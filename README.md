@@ -1,4 +1,4 @@
- **application under test:** https://github.com/marcusAutomation/securitas_cypress/tree/new_branch
+ **application under test:** https://github.com/marcusAutomation/securitas_cypress/
 
 ## :goal_net: Goals
 - keep it simple - no 'custom' abstractions/functions/utils/helpers (use what Cypress provides)
